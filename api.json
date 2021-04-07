@@ -1,0 +1,75 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "curso": "Informática para Internet",
+            "nivel": "Técnico Integrado",
+            "duracao": "3 anos",
+            "municipio": "Naviraí"
+        },
+        {
+            "id": 2,
+            "curso": "Agricultura",
+            "nivel": "Técnico Subsequente",
+            "duracao": "1,5 ano",
+            "municipio": "Naviraí"
+        },
+        {
+            "id": 3,
+            "curso": "Edificações",
+            "nivel": "Educaçao de Jovens e Adultos",
+            "duracao": "3 anos",
+            "municipio": "Aquidauana"
+        },
+        {
+            "id": 4,
+            "curso": "Jogos Digitais",
+            "nivel": "Graduação",
+            "duracao": "3 anos",
+            "municipio": "Dourados"
+        },
+        {
+            "id": 5,
+            "curso": "Gestão de organização",
+            "nivel": "Pós-Graduação",
+            "duracao":"18 meses",
+            "municipio": "Dourados"
+        },
+        {
+            "id":6,
+            "curso":"Administração",
+            "nivel":"Técnico Subsequente",
+            "duracao":"2 anos",
+            "municipio":"Aquidauana"
+        },
+        {
+            "id":7,
+            "curso":"Análise e Desenvolvimento de Sistemas",
+            "nivel":"Gradução",
+            "duracao":"3 anos",
+            "municipio":"Naviraí"
+        },
+        {
+            "id":8,
+            "curso":"Operador de Computador",
+            "nivel":"Qualificação Profissional",
+            "duracao":"180 horas",
+            "municipio":"Dourados"
+        },
+        {
+            "id":9,
+            "curso":"Agronomia",
+            "nivel":"Graduação",
+            "duracao":"5 anos",
+            "municipio":"Naviraí"
+        },
+        {
+            "id":10,
+            "curso":"Ciências da Natureza e Matemática",
+            "nivel":"Pós-Graduação",
+            "duracao":"12 a 24 meses",
+            "municipio":"Coxim"
+        }
+        
+    ]
+}
